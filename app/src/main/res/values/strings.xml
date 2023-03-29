@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="main_swipe_text">Swipe To Refresh</string>
+    <string name="main_menu_sort">Sort</string>
+    <string name="menu_main_sort_item_title">Title</string>
+    <string name="menu_main_sort_item_date">Date</string>
+    <string name="dialog_error_title">Error</string>
+    <string name="word_dismiss">Dismiss</string>
+    <string name="error_dialog_message_start">An error occurred:</string>
+</resources>
